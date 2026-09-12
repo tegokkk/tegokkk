@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20Tego%20Saputra%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20JavaScript%20Developer%20from%20Indonesia&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20Tego%20Saputra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20JavaScript%20Developer%20from%20Indonesia&descAlignY=55&descSize=18" />
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack:
+### Tech Stack
 
 **Languages**
 
@@ -37,7 +37,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=blue)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=blue)
 
 **Backend & Data**
 
@@ -49,10 +49,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-**Testing & Delivery**
+**Tools & Delivery**
 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
@@ -61,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tegokkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" width="48%"/>
@@ -75,7 +73,7 @@
 
 ---
 
-### 🏆 GitHub Trophies:
+### GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tegokkk&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
@@ -83,14 +81,14 @@
 
 ---
 
-### 🚀 Selected Work:
+### Selected Work
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **Smart Attendance** | Campus attendance with GPS validation, live selfie capture & admin dashboard | React · Express · Prisma · Supabase | [🔗 ABSENAPEL](https://github.com/tegokkk/ABSENAPEL) |
-| **SAKURA Lab** | Lab reservation system with availability calendar & two-stage approval workflow | React · Express · Prisma · PostgreSQL | [🔗 sakura-lab](https://github.com/tegokkk/sakura-lab) |
-| **CARIMAKAN** | Food discovery & ordering app with customer, merchant, and admin portals | React · Tailwind CSS · Express · Prisma | [🔗 CARIMAKAN](https://github.com/tegokkk/CARIMAKAN) |
-| **Decormoment.bdl** | Product website for acrylic greeting-card business with WhatsApp ordering | Next.js · React · CSS Modules | [🔗 DECORMOMENT.BDL](https://github.com/tegokkk/DECORMOMENT.BDL) |
+| **Smart Attendance** | Campus attendance with GPS validation, live selfie capture & admin dashboard | React · Express · Prisma · Supabase | [ABSENAPEL](https://github.com/tegokkk/ABSENAPEL) |
+| **SAKURA Lab** | Lab reservation system with availability calendar & two-stage approval workflow | React · Express · Prisma · PostgreSQL | [sakura-lab](https://github.com/tegokkk/sakura-lab) |
+| **CARIMAKAN** | Food discovery & ordering app with customer, merchant, and admin portals | React · Tailwind CSS · Express · Prisma | [CARIMAKAN](https://github.com/tegokkk/CARIMAKAN) |
+| **Decormoment.bdl** | Product website for acrylic greeting-card business with WhatsApp ordering | Next.js · React · CSS Modules | [DECORMOMENT.BDL](https://github.com/tegokkk/DECORMOMENT.BDL) |
 
 ---
 
