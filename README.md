@@ -1,98 +1,103 @@
-<p align="center">
-  <sub>FULL-STACK WEB DEVELOPER</sub>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20Tego%20Saputra%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20JavaScript%20Developer%20from%20Indonesia&descAlignY=55&descSize=18" />
+</div>
 
-<h1 align="center">Tego Saputra</h1>
-
-<p align="center">
-  Web applications for campus operations and local businesses.<br />
-  React interfaces. Node.js APIs. PostgreSQL databases.
-</p>
+<br/>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="#technology">Technology</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://github.com/tegokkk?tab=repositories">All repositories</a>
+  <a href="https://www.instagram.com/tegosptraa_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tego-saputra-893782383/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
-
-<p align="center">
-  <sub>Lampung, Indonesia &nbsp;·&nbsp; Politeknik Negeri Lampung</sub>
-</p>
-
-<br />
-
-## Profile
-
-I develop full-stack applications with JavaScript, from responsive interfaces to REST APIs and relational data models. My projects cover attendance management, laboratory reservations, food ordering, and business websites.
-
-My work includes authentication, role-based access, approval workflows, and administrative dashboards, with React and Next.js on the frontend and Express, Prisma, and PostgreSQL on the backend.
-
-## Selected work
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Overview</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/tegokkk/ABSENAPEL"><strong>Smart Attendance</strong></a><br /><sub>CAMPUS OPERATIONS</sub></td>
-      <td>Attendance management with GPS validation, live selfies, and an administrative dashboard.<br /><br /><sub>React · Express · Prisma · Supabase</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tegokkk/sakura-lab"><strong>SAKURA Lab</strong></a><br /><sub>LABORATORY MANAGEMENT</sub></td>
-      <td>Laboratory reservations with availability calendars, two-stage approvals, and operational reports.<br /><br /><sub>React · Express · Prisma · PostgreSQL</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tegokkk/CARIMAKAN"><strong>CARIMAKAN</strong></a><br /><sub>FOOD ORDERING</sub></td>
-      <td>Food discovery and ordering with separate customer, merchant, and admin workflows.<br /><br /><sub>React · Tailwind CSS · Express · Prisma</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tegokkk/DECORMOMENT.BDL"><strong>Decormoment.bdl</strong></a><br /><sub>BUSINESS WEBSITE</sub></td>
-      <td>A product-focused website for an acrylic greeting-board business, with WhatsApp ordering.<br /><br /><sub>Next.js · React · CSS Modules</sub></td>
-    </tr>
-  </tbody>
-</table>
-
-## Technology
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=E6EDF3)
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E6EDF3)
-![CSS](https://img.shields.io/badge/CSS-161B22?style=flat-square&logo=css&logoColor=E6EDF3)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=8EDFD3)
-![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=E6EDF3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=8EDFD3)
-![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=E6EDF3)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-161B22?style=flat-square&logo=framer&logoColor=E6EDF3)
-
-**Backend & data**
-
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=8EDFD3)
-![Express](https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=E6EDF3)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=8EDFD3)
-![Prisma](https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=E6EDF3)
-![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=8EDFD3)
-
-**Development & delivery**
-
-![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=E6EDF3)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3)
-![npm](https://img.shields.io/badge/npm-161B22?style=flat-square&logo=npm&logoColor=E6EDF3)
-![Jest](https://img.shields.io/badge/Jest-161B22?style=flat-square&logo=jest&logoColor=E6EDF3)
-![Playwright](https://img.shields.io/badge/Playwright-161B22?style=flat-square)
-![Netlify](https://img.shields.io/badge/Netlify-161B22?style=flat-square&logo=netlify&logoColor=8EDFD3)
-
-<br />
 
 ---
 
-<p align="center">
-  <sub><a href="https://github.com/tegokkk?tab=repositories">Explore the code behind the projects</a></sub>
-</p>
+&nbsp;&nbsp;I develop full-stack applications with **JavaScript** — from responsive interfaces to REST APIs and relational data models. My projects cover attendance management, laboratory reservations, food ordering, and business websites. I work with **React** and **Next.js** on the frontend, and **Express**, **Prisma**, and **PostgreSQL** on the backend.
+
+---
+
+### 🛠️ Tech Stack:
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=blue)
+
+**Backend & Data**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+**Testing & Delivery**
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tegokkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" width="48%"/>
+  &nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tegokkk&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegokkk&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&layout=compact" alt="Top Languages" width="42%"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tegokkk&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 🚀 Selected Work:
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **Smart Attendance** | Campus attendance with GPS validation, live selfie capture & admin dashboard | React · Express · Prisma · Supabase | [🔗 ABSENAPEL](https://github.com/tegokkk/ABSENAPEL) |
+| **SAKURA Lab** | Lab reservation system with availability calendar & two-stage approval workflow | React · Express · Prisma · PostgreSQL | [🔗 sakura-lab](https://github.com/tegokkk/sakura-lab) |
+| **CARIMAKAN** | Food discovery & ordering app with customer, merchant, and admin portals | React · Tailwind CSS · Express · Prisma | [🔗 CARIMAKAN](https://github.com/tegokkk/CARIMAKAN) |
+| **Decormoment.bdl** | Product website for acrylic greeting-card business with WhatsApp ordering | Next.js · React · CSS Modules | [🔗 DECORMOMENT.BDL](https://github.com/tegokkk/DECORMOMENT.BDL) |
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=tegokkk&icon=0&color=6" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+</div>
