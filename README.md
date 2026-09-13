@@ -71,6 +71,16 @@ I develop full-stack applications with JavaScript — from responsive interfaces
   <img src="https://github-contributor-stats.vercel.app/api?username=tegokkk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tegokkk/tegokkk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tegokkk/tegokkk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution pacman" src="https://raw.githubusercontent.com/tegokkk/tegokkk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ## GitHub Trophies
