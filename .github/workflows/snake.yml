@@ -9,6 +9,10 @@ on:
     branches:
     - main
 
+# Izin akses agar GitHub Action bisa menyimpan gambar
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
