@@ -1,0 +1,176 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1789326154927",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1789326161427",
+      "widgetId": "surveillance-dossier",
+      "name": "Surveillance-dossier Widget",
+      "position": {
+        "x": 0,
+        "y": 433
+      },
+      "size": {
+        "width": 780,
+        "height": 260
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Subject Dossier"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1789326164834",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 0,
+        "y": 709
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1789326167690",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 0,
+        "y": 925
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Terminal Telemetry"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1789326170489",
+      "widgetId": "surveillance-transmission",
+      "name": "Surveillance-transmission Widget",
+      "position": {
+        "x": 0,
+        "y": 1361
+      },
+      "size": {
+        "width": 780,
+        "height": 160
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Incoming Transmission"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1789326173872",
+      "widgetId": "surveillance-field",
+      "name": "Surveillance-field Widget",
+      "position": {
+        "x": 0,
+        "y": 1537
+      },
+      "size": {
+        "width": 780,
+        "height": 438
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Field Recording VHS"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1789326176912",
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
+      "position": {
+        "x": 0,
+        "y": 1991
+      },
+      "size": {
+        "width": 780,
+        "height": 190
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Social Feeds"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1789326180443",
+      "widgetId": "surveillance-title",
+      "name": "Surveillance-title Widget",
+      "position": {
+        "x": 0,
+        "y": 2197
+      },
+      "size": {
+        "width": 780,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Section Title"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "blank"
+  },
+  "templateId": "blank"
+}
